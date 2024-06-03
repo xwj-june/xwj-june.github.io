@@ -1,6 +1,6 @@
 ### **Intro**
 
-I was not a productive person, and still think I am one now, but I can somehow get works done in time rather than ending up wondering where all time went. Here is what I have been doing to achieve it. This article is also a reminder for myself to not stuck in the rabbit hole looking for any sliver bullet on productivity anymore. so the following is a style of talking to myself, please don’t feel offensive if it’s too true. 
+I was not a productive person, and still think I am not one now, but I can somehow get works done in time rather than ending up wondering where all time went. Here is what I have been doing to achieve it. This article is also a reminder for myself to not stuck in the rabbit hole looking for any sliver bullet on productivity anymore. So this article is written in a style of talking to myself, please don’t feel offensive if it’s too true. 
 
 
 ### **Work on the right thing**
@@ -9,25 +9,22 @@ Although, this article is for productivity, but the most fundamental important s
 
 So please put the effort into planning includes determining the goal and understanding what needs to be done to get there. Nobody likes the feeling of wasting time and energy. 
 
-There are two simply actions and one reminder
-
-In daily life, generally be happy. If you cannot resist to something that is not good, you generally know what outcome is. So think about it in front, hopefully it could alert you and stop. 
+In daily life, be happy. If you cannot resist to something that is not good, you generally know what outcome is but avoid facing it. Think about the result in front, hopefully it could alert you and stop.
 
 At work, it is very straightforward, understand and confirm the expected outcome (in writing if possible).
 
-
 ### **Start working is the best way to beat procrastination**
 
-> Nothing magic, it is just doing.
+> Nothing magic, just start doing.
 > 
 
 You want to do something now, so get starting. Get everything you need to get it done. Beside the necessary tools that you need, the following could also be helpful. 
 
-a cup of water may not be enough, so get a bottle of it; 
+- a cup of water may not be enough, so get a bottle of it; 
 
-a headphone if you are in a noise environment but you need to be focus;
+- a headphone if you are in a noise environment but you need to be focus;
 
-a phone that in focus mode (zero-notification)
+- a phone that in focus mode (zero-notification)
 
 Next, start a Pomodoro timer, it don’t mean much except telling you are in a focus mode now. so keep doing what you suppose to do until the time’s up. And make sure to take a break and do something fun.
 
@@ -41,7 +38,7 @@ Then repeat the Pomodoro timer and the above again. Pomodoro timer usually start
 
 It is easy to say than done - get into the environment that design for the purpose. Like study in a library, work in a quite room, avoid chatty people (or set Do Not Disturb in MS Teams at work). 
 
-Although, you don’t a perfect environment. So below may help you get into the zone (where distraction does not exist and time flies)
+Although, you are unlikely in a perfect environment, the below may help you get into the zone (where distraction does not exist and time flies)
 
 - try experiment and find a routine that helps you to the zone, such as
     - listening to music in a specific genre
@@ -57,16 +54,21 @@ Although, you don’t a perfect environment. So below may help you get into the 
 
 You know a better computer (high specification) can do more jobs than a normal computer. But you may not value the same to our body - the hardware. 
 
-Human’s activities consume energy which is from eating and sleeping. And exercises help to build better quality energy, it helps with eating and sleeping.
+Human’s activities consume energy which is from eating and sleeping. Exercises help to build better quality energy, it helps with eating and sleeping.
 
 So build a strong foundation consciously. You will gain more in long run.
 
-> Back to the basic if you don’t know how to do one thing quicker
+> Back to the basic if you don’t know how to do one thing quicker, or stuck
 > 
 
-You want to get better in something but don’t know where to start. You try to browsing in the internet and finding the answer, you might find some are helpful. You tried and soon stuck again.
+You want to get better in something but don’t know where to start. You try to browsing in the internet and finding the answer, you might find some are helpful. You tried and soon stuck, again and again.
 
-It’s time to step back and ask yourself if you are completely understanding what’s happening and how it runs. If the answer is no, then step back again. And going back up until you do.
+It’s time to step back and ask yourself:
+1.  if you are fully understanding the expected result;
+2.  learn what’s happening
+3.  how it gets here
+
+If the answer for any of the above is no. Step back and try solve them one by one, then go through it again up until you are clear.
 
 No pain no gain. Get to the foundation and build it up is the only way to achieve more and quicker.
 
@@ -85,4 +87,4 @@ Advises are nothing until actions are taken. Set and refine your ultimate goal, 
 
 &nbsp;
 
-*Last modified on May 18, 2024*
+*Last modified on June 3, 2024*
